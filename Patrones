@@ -1,0 +1,5 @@
+  public nombrePattern = "^[A-ZÑa-zñáéíóúÁÉÍÓÚ'° ]+$";
+  public emailPattern = '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$';
+ 
+  public expresion_regular_dni = /^(([X-Zx-z]{1})([-]?)(\d{7})([-]?)([A-Za-z]{1}))|((\d{8})([-]?)([A-Za-z]{1}))$/;
+ 
